@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\drawable_space.jpg.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\drawable\\space.jpg"
+    },
+    {
+        "merged": "com.eightbitlab.shadowview.app-merged_res-22:/layout_activity_main.xml.flat",
+        "source": "com.eightbitlab.shadowview.app-main-24:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\drawable-hdpi_ic_premium_available.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-pngs-17:\\drawable-hdpi\\ic_premium_available.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\drawable-xxhdpi_ic_premium_available.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-pngs-17:\\drawable-xxhdpi\\ic_premium_available.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-pngs-17:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\drawable-xxxhdpi_ic_premium_available.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-pngs-17:\\drawable-xxxhdpi\\ic_premium_available.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\drawable_rounded_corners.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\drawable\\rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\drawable_bg_btn_premium_available.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\drawable\\bg_btn_premium_available.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\drawable-xhdpi_ic_premium_available.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-pngs-17:\\drawable-xhdpi\\ic_premium_available.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\drawable-ldpi_ic_premium_available.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-pngs-17:\\drawable-ldpi\\ic_premium_available.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\drawable_ic_arrow_right_try_now.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\drawable\\ic_arrow_right_try_now.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\drawable-anydpi-v24_ic_premium_available.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-pngs-17:\\drawable-anydpi-v24\\ic_premium_available.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\drawable-mdpi_ic_premium_available.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-pngs-17:\\drawable-mdpi\\ic_premium_available.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\drawable_cosmonaut.jpg.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\drawable\\cosmonaut.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-merged_res-22:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.4\\com.eightbitlab.shadowview.app-main-24:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
