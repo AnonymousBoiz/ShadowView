@@ -23,7 +23,7 @@ class ShadowView @JvmOverloads constructor(
     private var roundingWidthScaleFactor = 1f
     private var roundingHeightScaleFactor = 1f
 
-    private lateinit var bitmap: Bitmap
+    private var bitmap: Bitmap? = null
     private val canvas = Canvas()
     private val paint = Paint(Paint.FILTER_BITMAP_FLAG)
 
@@ -122,11 +122,13 @@ class ShadowView @JvmOverloads constructor(
 
     private fun blurChild(child: View) {
         canvas.save()
-        bitmap.eraseColor(Color.TRANSPARENT)
+        bitmap?.eraseColor(Color.TRANSPARENT)
         setUpCanvasMatrix()
         child.draw(canvas)
         canvas.restore()
-        bitmap = blurScript.blur(bitmap, blurRadius)
+        bitmap?.let {
+            bitmap = blurScript.blur(it, blurRadius)
+        }
     }
 
     private fun drawShadow(canvas: Canvas) {
@@ -139,7 +141,9 @@ class ShadowView @JvmOverloads constructor(
         )
         //translate back to the beginning of bitmap
         canvas.translate(-blurRadius, -blurRadius)
-        canvas.drawBitmap(bitmap, 0f, 0f, paint)
+        bitmap?.let {
+            canvas.drawBitmap(it, 0f, 0f, paint)
+        }
         canvas.restore()
     }
 }
